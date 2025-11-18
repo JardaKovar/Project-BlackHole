@@ -1,0 +1,7 @@
+# Black Hole Simulation Requirements
+# Python 3.7+
+
+numpy>=1.19.0
+colorama>=0.4.4
+matplotlib>=3.3.0
+pygame>=2.0.0
